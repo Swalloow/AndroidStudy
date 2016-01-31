@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaterialNavigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="openDrawer">Drawer Open</string>
+    <string name="closeDrawer">Drawer Close</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="name">sulhyun</string>
+    <string name="email">sulhyun@naver.com</string>
+</resources>

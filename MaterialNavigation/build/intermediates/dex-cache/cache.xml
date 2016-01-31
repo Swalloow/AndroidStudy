@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\samsung\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-05fe7601ab5672b8b678f2ed603cd67e47c04afb.jar" />
+    </item>
+    <item
+        jar="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\pre-dexed\debug\classes-fea886df2cb2bbdd2fa640fab8b88f1347735afb.jar" />
+    </item>
+    <item
+        jar="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\pre-dexed\debug\classes-d129265c706f7c135c3cb5f59a983401f1d4a40a.jar" />
+    </item>
+    <item
+        jar="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\pre-dexed\debug\classes-b61c9d515cb815def8fdb6200c744426d9797353.jar" />
+    </item>
+    <item
+        jar="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-66091e25dc88850729f7ace14bcfdfd9bea7db09.jar" />
+    </item>
+    <item
+        jar="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\pre-dexed\debug\classes-8193ddb82afd32e2da7e26ab845f2452b9f2fe56.jar" />
+    </item>
+    <item
+        jar="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\samsung\Documents\GitHub\PassingPath\PassingPath_v1.2\app\build\intermediates\pre-dexed\debug\classes-d7d9ee093722bcc17edc625c356c278879687064.jar" />
+    </item>
+
+</items>
