@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Customer">
+        <menu>
+            <item
+                android:id="@+id/nav_camara"
+                android:icon="@android:drawable/ic_menu_camera"
+                android:title="SignUp" />
+            <item
+                android:id="@+id/nav_stamp"
+                android:icon="@android:drawable/ic_menu_myplaces"
+                android:title="MyStamp" />
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="MyInfo" />
+        </menu>
+    </item>
+
+    <item android:title="Store">
+        <menu>
+            <item
+                android:id="@+id/nav_menus"
+                android:icon="@android:drawable/ic_menu_recent_history"
+                android:title="Menus" />
+            <item
+                android:id="@+id/nav_event"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="Event" />
+        </menu>
+    </item>
+
+</menu>
